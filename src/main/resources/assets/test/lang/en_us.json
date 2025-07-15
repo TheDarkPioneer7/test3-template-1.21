@@ -3,6 +3,7 @@
   "item.test.raw_pink_garnet": "Raw Pink Garnet",
   "item.test.chisel": "Chisel",
   "item.test.cauliflower": "Cauliflower",
+  "item.test.starlight_ashes": "Starlight Ashes",
 
   "block.test.pink_garnet_block": "Pink Garnet Block",
   "block.test.raw_pink_garnet_block": "Raw Pink Garnet Block",
@@ -13,5 +14,11 @@
   "block.test.magic_block": "Magic Block",
 
   "itemgroup.test.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.test.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.test.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.test.magic_block.tooltip": "Megic Mik's block, it works by §k34324234324",
+
+  "tooltip.test.chisel.shift_down": "This tool chisels blocks into their equivalent bricks",
+  "tooltip.test.chisel": "§ePress §1[§eShift§1]§e for more Information!",
+  "tooltip.test.cauliflower.tooltip": "This is so healthy you may get an health boost!"
 }
