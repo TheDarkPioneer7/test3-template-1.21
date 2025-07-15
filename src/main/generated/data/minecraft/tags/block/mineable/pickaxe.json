@@ -1,9 +1,9 @@
 {
-  "replace": false,
   "values": [
     "test:pink_garnet_block",
     "test:raw_pink_garnet_block",
     "test:pink_garnet_ore",
-    "test:pink_garnet_deepslate_ore"
+    "test:pink_garnet_deepslate_ore",
+    "test:magic_block"
   ]
 }
