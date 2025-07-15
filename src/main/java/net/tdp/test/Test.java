@@ -3,6 +3,7 @@ package net.tdp.test;
 import net.fabricmc.api.ModInitializer;
 
 import net.tdp.test.block.ModBlocks;
+import net.tdp.test.item.ModItemGroups;
 import net.tdp.test.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +14,8 @@ public class Test implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}
