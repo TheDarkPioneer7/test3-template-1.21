@@ -1,9 +1,15 @@
 {
   "item.test.pink_garnet": "Pink Garnet",
   "item.test.raw_pink_garnet": "Raw Pink Garnet",
+  "item.test.chisel": "Chisel",
 
   "block.test.pink_garnet_block": "Pink Garnet Block",
   "block.test.raw_pink_garnet_block": "Raw Pink Garnet Block",
+
+  "block.test.pink_garnet_ore": "Pink Garnet Ore",
+  "block.test.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "block.test.magic_block": "Magic Block",
 
   "itemgroup.test.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.test.pink_garnet_blocks": "Pink Garnet Blocks"
