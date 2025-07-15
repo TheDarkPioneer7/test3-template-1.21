@@ -11,7 +11,7 @@ import net.tdp.test.Test;
 import net.tdp.test.block.ModBlocks;
 
 public class ModItemGroups {
-    public static final ItemGroup PINK_GARNET_ITEMS = Registry.register(Registries.ITEM_GROUP,
+    public static final ItemGroup PINK_GARNET_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(Test.MOD_ID, "pink_garnet_items"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.PINK_GARNET))
                     .displayName(Text.translatable("itemgroup.test.pink_garnet_items"))
@@ -20,10 +20,11 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_PINK_GARNET);
 
                         entries.add(ModItems.CHISEL);
+                        entries.add(ModItems.CAULIFLOWER);
                     }))
                     .build());
 
-    public static final ItemGroup PINK_GARNET_BLOCK_ITEMS = Registry.register(Registries.ITEM_GROUP,
+    public static final ItemGroup PINK_GARNET_BLOCK_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(Test.MOD_ID, "pink_garnet_blocks"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModBlocks.PINK_GARNET_BLOCK))
                     .displayName(Text.translatable("itemgroup.test.pink_garnet_blocks"))
