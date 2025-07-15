@@ -1,6 +1,15 @@
-// 1.21	2025-07-15T23:18:44.9336088	Test/Block Loot Tables
+// 1.21	2025-07-16T00:29:53.5878543	Test/Block Loot Tables
+45d4b5f01e83d5053f610df13bd7d09b758345e9 data\test\loot_table\blocks\pink_garnet_stairs.json
+adf22effd67c72a3b9b09eb8c880c82793b65ce9 data\test\loot_table\blocks\pink_garnet_fence_gate.json
 593341bd43ba86f3693e0939bb7c5c97874da103 data\test\loot_table\blocks\pink_garnet_deepslate_ore.json
 e6c93de251e5531ac654958cd494b6e98f6b7aac data\test\loot_table\blocks\raw_pink_garnet_block.json
+7e6ef1e2b0ba7c73cd1fb65ac265331b83172252 data\test\loot_table\blocks\pink_garnet_wall.json
 ca4b805d5367ab3e083f7dc2c362c9b641611e0b data\test\loot_table\blocks\pink_garnet_block.json
+e6e46266c07bfb32416a675ee1abdcb74f2ec2e7 data\test\loot_table\blocks\pink_garnet_fence.json
 a2a9646fd8a15dd5b79ef30045473817f8bba13f data\test\loot_table\blocks\magic_block.json
+36ac2c0453b86a7fb7a93a7ded8989e8e0c66e19 data\test\loot_table\blocks\pink_garnet_door.json
+c10a25fd2ca60007ee0842a4fa2f3787170313bf data\test\loot_table\blocks\pink_garnet_pressure_plate.json
+7663fbbd1d2f6a5ffa9de6b2e247d1eacda8a4a9 data\test\loot_table\blocks\pink_garnet_slab.json
+c57618b1a986c5fef87df367fba1271625cfb10c data\test\loot_table\blocks\pink_garnet_trapdoor.json
+00d67e4a54c29f846d6554ec869b265264dd1e27 data\test\loot_table\blocks\pink_garnet_button.json
 8b45b90166a4a41ca276497718e68c73762e1e46 data\test\loot_table\blocks\pink_garnet_ore.json
