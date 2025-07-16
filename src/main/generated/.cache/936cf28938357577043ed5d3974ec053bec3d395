@@ -1,4 +1,4 @@
-// 1.21	2025-07-16T11:48:30.0214851	Test/Model Definitions
+// 1.21	2025-07-16T12:15:49.4002681	Test/Model Definitions
 536a1f9e1578c9738a0f1975a37bcbfe81b664be assets\test\models\item\pink_garnet_slab.json
 eeb3e73404ed68a0dc2ae9466abcb73a018bf507 assets\test\models\item\pink_garnet_lamp.json
 5905b5bb5900e7e7013eaa540a7ddce3cbd6c5cf assets\test\models\block\pink_garnet_button.json
@@ -13,8 +13,8 @@ f4142c8a1ead696bd42cbdba3b78617b1c379f05 assets\test\blockstates\pink_garnet_fen
 7d4785298044c6a2e4629f93f59f85b07f3a73a5 assets\test\models\block\pink_garnet_slab_top.json
 f0971d735bcaeadccb9e639cb89b6c0b0404bc94 assets\test\models\block\pink_garnet_door_top_left_open.json
 c86bb8ee7c74e1414e4e89f7ac48028ae153c590 assets\test\blockstates\pink_garnet_deepslate_ore.json
-59f65090b5d6cf5aafa7a476c92a2f310e2da033 assets\test\models\block\pink_garnet_wall_post.json
 fe4fa2b529f947f6089194636fa5e8dcfca47c67 assets\test\blockstates\pink_garnet_lamp.json
+59f65090b5d6cf5aafa7a476c92a2f310e2da033 assets\test\models\block\pink_garnet_wall_post.json
 31034b619b97c2918b3ab21da15b7717f042316f assets\test\models\item\cauliflower.json
 27d4994d103d9d7258ce15c1dd70f41e44381c88 assets\test\models\block\pink_garnet_trapdoor_top.json
 3edc2f0d744b05f8216584e57d025133d364885a assets\test\blockstates\pink_garnet_slab.json
@@ -51,8 +51,8 @@ afedfa3588a4fca395821ab93123ef4664ea34c7 assets\test\models\item\pink_garnet_fen
 83091042ba1b13e1b5f4f857e8c7aa0eeac70101 assets\test\models\block\pink_garnet_door_top_right_open.json
 0f4b5f52d3c639e5860da12997f0617d702e48dd assets\test\models\block\pink_garnet_door_bottom_left_open.json
 49ca7b8595ff26c711e24787c2008ac8fbf0b86f assets\test\models\block\pink_garnet_block.json
-13a2bca77344b9dff2f58dfab271a673890e354d assets\test\models\item\pink_garnet_block.json
 c1e5094c3bf123c7c58870b431e08d3b9a75e351 assets\test\models\block\pink_garnet_pressure_plate.json
+13a2bca77344b9dff2f58dfab271a673890e354d assets\test\models\item\pink_garnet_block.json
 cb5279dc486a79c0b7fac44da12b3d1ca6d512aa assets\test\models\item\raw_pink_garnet.json
 9e5cb0292687630cd4d9d3d29180e9b8f1f2ef68 assets\test\models\block\pink_garnet_wall_side_tall.json
 5f79ff383b2df1665f1f17ea176b6b19ec82368a assets\test\models\item\chisel.json
