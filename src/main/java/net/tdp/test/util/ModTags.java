@@ -9,6 +9,8 @@ import net.tdp.test.Test;
 
 public class ModTags {
     public static class Blocks {
+        public static final TagKey<Block> NEED_PINK_GARNET_TOOL = createTag("need_pink_garnet_tool");
+        public static final TagKey<Block> INCORRECT_FOR_PINK_GARNET_TOOL = createTag("incorrect_for_pink_garnet_tool");
 
 
         private static TagKey<Block> createTag(String name) {

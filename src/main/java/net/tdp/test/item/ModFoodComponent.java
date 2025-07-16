@@ -1,4 +1,4 @@
-package net.tdp.test.item.custom;
+package net.tdp.test.item;
 
 import net.minecraft.component.type.FoodComponent;
 import net.minecraft.entity.effect.StatusEffectInstance;

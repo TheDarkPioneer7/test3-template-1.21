@@ -19,9 +19,9 @@ import net.tdp.test.item.ModItems;
 
 import java.util.concurrent.CompletableFuture;
 
-public class ModLootTagProvider extends FabricBlockLootTableProvider {
+public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
-    public ModLootTagProvider(FabricDataOutput dataOutput, CompletableFuture<RegistryWrapper.WrapperLookup> registryLookup) {
+    public ModLootTableProvider(FabricDataOutput dataOutput, CompletableFuture<RegistryWrapper.WrapperLookup> registryLookup) {
         super(dataOutput, registryLookup);
     }
 
