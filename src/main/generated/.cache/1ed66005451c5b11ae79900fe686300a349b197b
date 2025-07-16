@@ -1,4 +1,4 @@
-// 1.21	2025-07-16T00:29:53.5340846	Test/Recipes
+// 1.21	2025-07-16T11:48:29.9855606	Test/Recipes
 c0fadace8aef7b6d15cedb3167aa06b2efcdd606 data\test\recipe\raw_pink_garnet_from_magic_block.json
 c063e89902797ed16b0bbdbde91ce30652459ce4 data\test\advancement\recipes\misc\pink_garnet_from_smelting_pink_garnet_deepslate_ore.json
 8639779161b8472b0f8a9c57e45647f634a9eec2 data\test\recipe\pink_garnet.json
@@ -19,5 +19,5 @@ dadea344053cd3c0e6dac58adcfdfe998247e19d data\test\advancement\recipes\misc\pink
 8bf0af457a9cd9a6cb6bbafbf95abed5fa6d6c7d data\test\recipe\pink_garnet_from_smelting_pink_garnet_ore.json
 4f62f0c6dd13e856da85c73b73eef2c619313d90 data\test\advancement\recipes\misc\pink_garnet_from_blasting_raw_pink_garnet.json
 7eb3cb8847631a65c9f6a0a7796879db694a2546 data\test\recipe\pink_garnet_from_smelting_raw_pink_garnet.json
-1efa841cd8272c2ecae6878cbc91e5f38d8f1949 data\test\advancement\recipes\misc\raw_pink_garnet_block.json
 7e35261a80d7266f1d83d9c2d505f6d27dc3a611 data\test\advancement\recipes\misc\raw_pink_garnet.json
+1efa841cd8272c2ecae6878cbc91e5f38d8f1949 data\test\advancement\recipes\misc\raw_pink_garnet_block.json
