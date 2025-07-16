@@ -1,7 +1,8 @@
-// 1.21	2025-07-16T14:02:42.0867067	Test/Tags for minecraft:item
+// 1.21	2025-07-16T15:18:56.7445701	Test/Tags for minecraft:item
 ade4a29d27298a2a1f585720dd7a49bbaced2569 data\test\tags\item\transformable_items.json
 74465643dc0f19a8d0a9b7496db8a1b46d390beb data\minecraft\tags\item\pickaxes.json
 15592a5db9703bcea7a40b484dc50c35660c786e data\minecraft\tags\item\axes.json
 ab7ffbc4efa4a5e0f8c972c632c75b7f89091ddf data\minecraft\tags\item\swords.json
+7e05d98d1e25b6bc9587e6d0a7f12dbd1f9a5d14 data\minecraft\tags\item\trimmable_armor.json
 690e4f8ae049f5eaad51cde7b3f47eb43f7ad4e3 data\minecraft\tags\item\hoes.json
 f7730d3d41a94b713d1aad2c6fe9de3766d5b30c data\minecraft\tags\item\shovels.json
