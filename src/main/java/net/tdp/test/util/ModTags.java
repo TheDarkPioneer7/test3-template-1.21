@@ -19,8 +19,10 @@ public class ModTags {
 
     }
     public static class Items {
+        // Create a TagKey for transformable items
         public static final TagKey<Item> TRANSFORMABLE_ITEMS = createTag("transformable_items");
 
+        // Create a TagKey for the given name
         private static TagKey<Item> createTag(String name) {
             return TagKey.of(RegistryKeys.ITEM, Identifier.of(Test.MOD_ID, name));
 
