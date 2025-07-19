@@ -23,6 +23,9 @@
 		],
 		"client" : [
 			"net.tdp.test.TestClient"
+		],
+		"rei_client": [
+			"net.tdp.test.compat.TestREIClient"
 		]
 	},
 	"mixins": [

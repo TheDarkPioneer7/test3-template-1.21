@@ -1,0 +1,10 @@
+{
+  "type": "test:growth_chamber",
+  "ingredient": {
+    "item": "test:raw_pink_garnet"
+  },
+  "result": {
+    "count": 16,
+    "id": "test:pink_garnet"
+  }
+}

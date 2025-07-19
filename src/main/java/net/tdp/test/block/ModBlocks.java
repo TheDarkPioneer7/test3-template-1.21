@@ -11,8 +11,7 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.intprovider.UniformIntProvider;
 import net.tdp.test.Test;
-import net.tdp.test.block.custom.MagicBlock;
-import net.tdp.test.block.custom.PinkGarnetLampBlock;
+import net.tdp.test.block.custom.*;
 
 public class ModBlocks {
     public static final Block PINK_GARNET_BLOCK = registerBlock("pink_garnet_block",
@@ -59,6 +58,16 @@ public class ModBlocks {
     public static final Block PINK_GARNET_LAMP = registerBlock("pink_garnet_lamp",
             new PinkGarnetLampBlock(AbstractBlock.Settings.create()
                     .strength(1f).requiresTool().luminance(state -> state.get(PinkGarnetLampBlock.CLICKED) ? 15 : 0)));
+
+    public static final Block CHAIR = registerBlock("chair",
+            new ChairBlock(AbstractBlock.Settings.create().nonOpaque()));
+
+    public static final Block PEDESTAL = registerBlock("pedestal",
+            new PedestalBlock(AbstractBlock.Settings.create().nonOpaque()));
+
+    public static final Block GROWTH_CHAMBER = registerBlock("growth_chamber",
+            new GrowthChamberBlock(AbstractBlock.Settings.create()));
+
 
 
 

@@ -67,6 +67,12 @@ public class ModItemGroups {
                         entries.add(ModBlocks.PINK_GARNET_TRAPDOOR);
 
                         entries.add(ModBlocks.PINK_GARNET_LAMP);
+
+                        entries.add(ModBlocks.CHAIR);
+
+                        entries.add(ModBlocks.PEDESTAL);
+
+                        entries.add(ModBlocks.GROWTH_CHAMBER);
                     }))
                     .build());
 

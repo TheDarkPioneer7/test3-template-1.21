@@ -41,6 +41,12 @@
 
   "block.test.pink_garnet_lamp": "Pink Garnet Lamp",
 
+  "block.test.chair": "Chair",
+
+  "block.test.pedestal": "Pedestal",
+
+  "block.test.growth_chamber": "Growth Chamber",
+
   "itemgroup.test.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.test.pink_garnet_blocks": "Pink Garnet Blocks",
 
